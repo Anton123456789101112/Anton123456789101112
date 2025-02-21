@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @fghh6rthrg
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning C++/HTML/CSS
+- 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me sandeye134@gmail.com
-- 😄 Pronouns: he/him
+- 📫 How to reach me 
+- 😄 Pronouns: 
 - ⚡ Fun fact: ...
 
 <!---
